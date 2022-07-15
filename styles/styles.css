@@ -1279,7 +1279,7 @@ input[type=number] {
     }
 
     .online-control-form {
-        height: 325px;
+        height: 312px;
         width: 347px;
         margin: auto;
     }
@@ -1291,9 +1291,10 @@ input[type=number] {
     }
 
     .online-control-form-description-container {
-        width: fit-content;
-        margin-bottom: 61px;
+        width: 347px;
+        margin-bottom: 61px;        
     }
+    
 
     .online-control-form-container {     
         height: 100%;   
@@ -1315,11 +1316,7 @@ input[type=number] {
 
     .online-control-form-input::placeholder {
         color: #FFFFFF;
-    }
-
-    .online-control-form-input-container-name {
-        margin-bottom: 63px;
-    }
+    }    
 
     .form-agree-check-box-label-container {
         margin: 27px auto 0 0;        
@@ -1327,11 +1324,7 @@ input[type=number] {
 
     .form-agree-check-box-label {
         color: #FFFFFF;
-    }
-
-    .online-control-form-submit-button {
-        margin-top: 62px;
-    }
+    }    
 
     .types-of-repair-opions-container {
         height: 1800px;
@@ -1485,5 +1478,13 @@ input[type=number] {
 
     .adress-section-social-media-container {
         margin-bottom: 42px;
+    }
+
+    .form-agree-check-box-label-text {
+        color: #FFFFFF;
+    }
+
+    .online-control-form-submit-button {
+        width: 347px;
     }
 }
